@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -e
 
-cd laravel
+#cd laravel
 
 # IMPORTANT: if public/storage exists as a folder, delete it first
 rm -rf public/storage
